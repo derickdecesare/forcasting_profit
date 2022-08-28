@@ -29,7 +29,7 @@ Dataset pulled from Resources folder which contains csv files.
 
 ### General
 
-Upon launching the forecasting_net_prophet.ipynb run each cell sequentially, ensuring to import the required libraries. To run this using google colab ensure to put hv.extension('bokeh') in the cells where hvplot is used.
+This is designed to be run in google colab. Upon launching the forecasting_net_prophet.ipynb run each cell sequentially, ensuring to import the required libraries. To run this using google colab ensure to put hv.extension('bokeh') in the cells where hvplot is used.
 
 ### Analysis
 
