@@ -1,5 +1,5 @@
 # forcasting_profit
-Analyzing MercadoLibre's financial and user data wiht prophet to help the company grow.
+Analyzing MercadoLibre's financial and user data with prophet to help the company grow.
 
 ---
 
